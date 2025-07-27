@@ -54,7 +54,7 @@ publishing {
     publications {
         register<MavenPublication>("release") {
             groupId = "com.moi.corebase"
-            artifactId = "moi-corebase"
+            artifactId = "corebase"
             version = "1.0.0"
         }
     }
