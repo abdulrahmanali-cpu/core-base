@@ -48,6 +48,7 @@ dependencies {
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
+    implementation("com.github.abdulrahmanali-cpu:corebase:1.0.0")
 }
 
 publishing {
