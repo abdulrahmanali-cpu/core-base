@@ -53,7 +53,7 @@ dependencies {
 publishing {
     publications {
         register<MavenPublication>("release") {
-            groupId = "com.moi.corebase"
+            groupId = "com.github.abdulrahmanali-cpu"
             artifactId = "corebase"
             version = "1.0.0"
         }
